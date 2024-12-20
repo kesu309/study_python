@@ -1,0 +1,3 @@
+import myfirstpackage
+
+myfirstpackage.myfunc()
